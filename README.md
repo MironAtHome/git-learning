@@ -22,3 +22,5 @@ git commit -m "Edit main.c" -m "add function main"^
 ## Additional information regarding markdown language formatting rules
 
 ### [Markdown basic syntax guide](https://www.markdownguide.org/basic-syntax/\#code)
+
+Small change
